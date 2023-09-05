@@ -96,8 +96,8 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-releases/</url>
+	      <name>demo2</name>
+	      <url>http://localhost:8081/repository/demo2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
