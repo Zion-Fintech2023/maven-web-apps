@@ -102,8 +102,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-snapshot/</url>
+	      <name>demo2snapshot</name>
+	      <url>http://localhost:8081/repository/demo2snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
